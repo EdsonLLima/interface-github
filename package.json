@@ -1,6 +1,6 @@
 {
-  "name": "github-app",
-  "version": "0.1.0",
+  "name": "interface-github",
+  "version": "1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -37,5 +37,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "interface github de repositorios",
+  "main": "index.js",
+  "repository": "git@github.com:EdsonLLima/interface-github.git",
+  "author": "edsonllima",
+  "license": "MIT"
 }
