@@ -4,7 +4,7 @@
 
 
 # Github App
-Consumir api GitHub para buscar seus usuários, trazendo seus repositórios e repositorios favoritados
+Consumir api GitHub em ReactJS para buscar seus usuários, trazendo seus repositórios e repositorios favoritados
 
 ## Alterações
 
